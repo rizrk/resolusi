@@ -4,7 +4,7 @@ Rencana konten
   * ES6
   * Vue
   * NodeJS
-  * VueJS
+  * React
 - Java
 - PHP
   * Laravel
