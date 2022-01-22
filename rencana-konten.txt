@@ -1,0 +1,8 @@
+Rencana konten
+- Struktur Data Dasar
+- Javascript
+  * ES6
+  * Vue
+- PHP
+  * Laravel
+  * Codeigniter
