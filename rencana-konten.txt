@@ -4,6 +4,8 @@ Rencana konten
   * ES6
   * Vue
   * NodeJS
+  * React
+- Golang
 - PHP
   * Laravel
   * Codeigniter
