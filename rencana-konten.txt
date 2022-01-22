@@ -3,6 +3,7 @@ Rencana konten
 - Javascript
   * ES6
   * Vue
+  * NodeJS
 - PHP
   * Laravel
   * Codeigniter
