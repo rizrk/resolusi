@@ -5,7 +5,7 @@ Rencana konten
   * Vue
   * NodeJS
   * React
-- Golang
+- Java
 - PHP
   * Laravel
   * Codeigniter
