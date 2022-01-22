@@ -1,4 +1,4 @@
 Resolusi 2022
 * Membuat forum diskusi
 * Membuat konten youtube
-* Membuat cloning aplikasi
+* Membuat framework sederhana
